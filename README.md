@@ -25,6 +25,7 @@ A reverse proxy is a server, application, or cloud service that acts as an inter
 In this project, we are building a secure infrastructure inside AWS VPC (Virtual Private Cloud) network for a company (funmi's Ink) that uses WordPress CMS for its main business website, and a Tooling Website for its DevOps team. As part of the company's desire for improved security and performance, a decision has been made to use a reverse proxy technology from NGINX to achieve this.
 Cost, Security, and Scalability are the major requirements for this project. Hence, implementing the architecture designed below, ensures that infrastructure for both websites, WordPress and Tooling, is resilient to Web Server's failures, can accommodate increased traffic, and, at the same time, has a reasonable cost.
 
+![](https://github.com/Tolu4realluv/Configuring-AWS-Cloud-Solution-For-2-Company-Websites-Using-A-Reverse-Proxy-Technology/blob/main/AWS-Projects-1.webp)
 
 
 
