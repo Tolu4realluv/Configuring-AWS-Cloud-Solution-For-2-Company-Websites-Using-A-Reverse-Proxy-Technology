@@ -29,7 +29,7 @@ Cost, Security, and Scalability are the major requirements for this project. Hen
 
 ## Starting off our AWS Cloud Project
 A few requirements must be met before we begin:
-we must properly configure our AWS account and Organization Unit. ![Watch How To Do This Here](https://www.youtube.com/watch?v=9PQYCc_20-Q)
+we must properly configure our AWS account and Organization Unit. [Watch How To Do This Here](https://www.youtube.com/watch?v=9PQYCc_20-Q)
 
 1. We Created an![AWS Master account](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all). (Also known as Root Account)
 *Within the Root account, we created a sub-account and named it DevOps. (we used another email address to complete this)
