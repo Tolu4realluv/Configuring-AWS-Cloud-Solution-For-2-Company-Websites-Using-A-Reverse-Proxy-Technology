@@ -40,5 +40,5 @@ we must properly configure our AWS account and Organization Unit. [Watch How To 
 2. We Created a free domain name for our company at Freenom domain registrar[here](https://www.freenom.com/en/index.html?lang=en).
 3. We Created a hosted zone in AWS and mapped it to our free domain from Freenom. [Watch how to do that here](https://www.youtube.com/watch?v=IjcHp94Hq8A)
 
-
+.
 
